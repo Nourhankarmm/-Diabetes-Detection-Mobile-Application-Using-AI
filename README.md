@@ -56,6 +56,7 @@ data = pd.read_csv('data/diabetes.csv')
 scaler = StandardScaler()
 data[['Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age']] = scaler.fit_transform(
     data[['Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age']])
+    
 2. Train the Model
 We train the model using a Random Forest Classifier, but you can experiment with other classifiers like Logistic Regression, SVM, etc.
 
@@ -82,6 +83,7 @@ print(f"Accuracy: {accuracy_score(y_test, y_pred)}")
 print("Confusion Matrix:")
 print(confusion_matrix(y_test, y_pred)) 
 
+
 3. Predicting New Data
 Once the model is trained, you can use it to predict whether new data (a new patient) has diabetes or not.
 
@@ -105,7 +107,7 @@ To run the entire workflow and train the model, use the following command:
 
 
 python train_and_predict.py
-Project Structure
+## Project Structure
 
 diabetes-detection/
 │
@@ -117,7 +119,7 @@ diabetes-detection/
 ├── requirements.txt   # Python dependencies
 ├── README.md          # Project documentation
 └── LICENSE            # Project license
-Dependencies
+## Dependencies
 The project requires the following Python libraries:
 
 pandas: For data manipulation
@@ -127,7 +129,7 @@ seaborn: For statistical data visualization
 You can install all required dependencies using the requirements.txt:
 
 pip install -r requirements.txt
-Acknowledgments
+## Acknowledgments
 UCI Machine Learning Repository for the dataset.
 Scikit-learn for machine learning tools.
 Matplotlib and Seaborn for data visualization.
