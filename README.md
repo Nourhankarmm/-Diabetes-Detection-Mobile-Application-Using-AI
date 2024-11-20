@@ -5,7 +5,7 @@
 This project implements a **Diabetes Detection Application** that uses **Artificial Intelligence (AI)** and machine learning models to predict whether a person is likely to have diabetes based on medical data. The application uses a dataset with various health-related features to train and evaluate a classification model that can predict the presence or absence of diabetes.
 
 The main goal of the project is to provide an automated and reliable system that can assist in the early detection of diabetes by analyzing medical data, enabling timely intervention and improved health outcomes.
-
+**Google Play Store Link**: [Download Diabetes Detection App](https://play.google.com/store/apps/details?id=com.yourapp.diabetesdetection)
 ## Dataset
 
 The dataset used for training and evaluation is the **Diabetes Detection Dataset**, which contains medical data for patients, and the target variable indicates whether the person has diabetes.
