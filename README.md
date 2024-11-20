@@ -10,7 +10,7 @@ The main goal of this project is to provide an automated and reliable system tha
 
 The dataset used for training and evaluation is the **Pima Indians Diabetes Database** from the UCI Machine Learning Repository. This dataset contains medical data for female patients of Pima Indian heritage, and the target variable indicates whether the person has diabetes.
 
-- **Dataset URL**: [Pima Indians Diabetes Database on UCI](https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes)
+- **Dataset URL**: [Pima Indians Diabetes Database on UCI]https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 The dataset contains the following columns:
 - `Pregnancies`: Number of times the patient has been pregnant
@@ -28,7 +28,7 @@ The dataset contains the following columns:
 To set up the project locally, follow these steps:
 
 ## 1. Clone the repository
-git clone https://github.com/yourusername/diabetes-detection.git
+git clone https://github.com/Nourhankarmm/-Diabetes-Detection-Mobile-Application-Using-AI/blob/main/final_tryyyyyyy.ipynb
 
 ## 2. Navigate to the project directory
 cd diabetes-detection
