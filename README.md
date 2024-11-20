@@ -28,7 +28,7 @@ The dataset contains the following columns:
 To set up the project locally, follow these steps:
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/diabetes-detection.git
+git clone https://github.com/Nourhankarmm/-Diabetes-Detection-Mobile-Application-Using-AI/blob/main/final_tryyyyyyy.ipynb
 
 ## 2. Navigate to the project directory
 cd diabetes-detection
