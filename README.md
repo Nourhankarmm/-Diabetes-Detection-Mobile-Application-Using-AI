@@ -10,7 +10,7 @@ The main goal of the project is to provide an automated and reliable system that
 
 The dataset used for training and evaluation is the **Diabetes Detection Dataset**, which contains medical data for patients, and the target variable indicates whether the person has diabetes.
 
-- **Dataset URL**: [Diabetes Detection Dataset](https://www.kaggle.com/datasets/)
+- **Dataset URL**: [Diabetes Detection Dataset]https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 The dataset contains the following columns:
 - `gender`: Gender of the patient
